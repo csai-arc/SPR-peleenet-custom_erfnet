@@ -10,6 +10,7 @@ File descriptions:
 > train_Peleenet_cml.prototxt - contains PeleeNet encoder training architecture based on combined margin loss.
 > deploy_Peleenet_cml.prototxt - contains PeleeNet encoder inference architecture for feature embeddings.
 
-> train_Peleenet_softmax.prototxt - contains PeleeNet encoder training architecture based on softmax loss.
-> deploy_Peleenet_softmax.prototxt - contains PeleeNet encoder inference architecture for classifications.
+Evaluation_results folder contains the confusion matrix for these model.
+
+For Pre-trained network model please contact saipradeep.chakka@iiitb.ac.in
 
