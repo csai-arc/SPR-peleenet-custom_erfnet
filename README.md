@@ -10,7 +10,7 @@ File descriptions:
 > train_Peleenet_cml.prototxt - contains PeleeNet encoder training architecture based on combined margin loss.
 > deploy_Peleenet_cml.prototxt - contains PeleeNet encoder inference architecture for feature embeddings.
 
-Evaluation_results folder contains the confusion matrix for these model.
+Evaluation_results folder contains the confusion matrix for these models.
 
-For Pre-trained network model please contact saipradeep.chakka@iiitb.ac.in
+For Pre-trained network models please contact saipradeep.chakka@iiitb.ac.in
 
