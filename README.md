@@ -12,5 +12,7 @@ File descriptions:
 
 Evaluation_results folder contains the confusion matrix for these models.
 
+Ablation_studies folder contains the accuracy, precision and recall metric values along with the confusion matrix for experiments conducted on other network architectures for comparison.
+
 For Pre-trained network models please contact saipradeep.chakka@iiitb.ac.in
 
