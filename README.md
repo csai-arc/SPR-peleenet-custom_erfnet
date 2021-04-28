@@ -1,4 +1,4 @@
-# SPR-peleenet-custom_erfnet
+# Surgical Phase Classification - PeleeNet-ST-ERFNet
 
 ### File descriptions:
 
