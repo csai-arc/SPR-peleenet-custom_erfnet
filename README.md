@@ -19,6 +19,8 @@ Note: Encoder: PeleeNet+CML, Decoder: ST-ERFNet is our proposed method.
 ### Folder descriptions:
 
 **Evaluation_results** folder contains the confusion matrix for these models.
+**Results of proposed method**
+![Alt text](/Evaluation_results/confusion_matrix.png?raw=true)
 
 **Ablation_studies** folder contains the accuracy, precision and recall metric values along with the confusion matrix for experiments conducted on other network architectures for comparison.
 
