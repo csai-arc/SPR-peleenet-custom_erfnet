@@ -1,6 +1,6 @@
 # SPR-peleenet-custom_erfnet
 
-###File descriptions:
+##File descriptions:
 
 **train_ERFNet.prototxt** - contains ST-ERFNet decoder training architecture.
 **deploy_ERFNet.prototxt** - contains ST-ERFNet decoder inference architecture for classification.
@@ -16,7 +16,7 @@
 Note: Encoder: PeleeNet+CML, Decoder: ST-ERFNet is our proposed method.
 
 
-###Folder descriptions:
+##Folder descriptions:
 
 **Evaluation_results** folder contains the confusion matrix for these models.
 
