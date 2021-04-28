@@ -6,6 +6,7 @@ File descriptions:
 > deploy_ERFNet.prototxt - contains ST-ERFNet decoder inference architecture for classification.
 
 > SPR_PeleeNet_architecture_overview.jpg - PeleeNet architecture overview table.
+![Alt text](/SPR_PeleeNet_architecture_overview.jpg?raw=true)
 
 > train_Peleenet_cml.prototxt - contains PeleeNet encoder training architecture based on combined margin loss.
 > deploy_Peleenet_cml.prototxt - contains PeleeNet encoder inference architecture for feature embeddings.
