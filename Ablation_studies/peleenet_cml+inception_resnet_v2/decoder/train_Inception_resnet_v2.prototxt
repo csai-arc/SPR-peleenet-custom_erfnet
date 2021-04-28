@@ -5,7 +5,7 @@ layer {
   top: "data"
   top: "label"
   hdf5_data_param {
-    source: "/mnt/sda/Surgical_videos_analysis/phase2_ss/datasets/cholec80/hdf5_packets/hdf5_train_lists/train_h5_list.txt"
+    source: "/mnt/sda/train_h5_list.txt"
     batch_size: 150
     shuffle: true
   }
