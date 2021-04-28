@@ -12,7 +12,7 @@ layer {
     mean_value: 123.0
   }
   image_data_param {
-    source: "/mnt/sda/Surgical_videos_analysis/phase2_ss/datasets/cholec80/surgical_phase_data_prep_encoder_decoder/train_val_test_list_creation/surg_phase_train_list.txt"
+    source: "/mnt/sda/surg_phase_train_list.txt"
     batch_size: 35
     shuffle: true
     new_height: 240
