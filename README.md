@@ -24,5 +24,5 @@ Note: Encoder: PeleeNet+CML, Decoder: ST-ERFNet is our proposed method.
 
 **Ablation_studies** folder contains the accuracy, precision and recall metric values along with the confusion matrix for experiments conducted on other network architectures for comparison.
 
-For Pre-trained network models please contact saipradeep.chakka@iiitb.ac.in
+For Pre-trained network models please contact the author.
 
